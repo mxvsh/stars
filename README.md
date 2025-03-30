@@ -1,5 +1,7 @@
 # My Stars
 
+This repository updates automatically using [starkit](https://github.com/marketplace/actions/starkit-action) action.
+
 ## Starred Repositories by Language
 
 *Total: 530 repositories across 34 languages*
