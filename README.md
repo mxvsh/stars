@@ -5,7 +5,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 530 repositories across 34 languages*
+*Total: 531 repositories across 34 languages*
 
 ### Astro (1)
 
@@ -353,8 +353,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
-### TypeScript (229)
+### TypeScript (230)
 
+- [mxvsh/starkit](https://github.com/mxvsh/starkit)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [drivebase/drivebase](https://github.com/drivebase/drivebase) - Open-source, self-hosted cloud file manager designed to unify file storage across multiple cloud providers into one seamless interface.
 - [xilehq/xile](https://github.com/xilehq/xile) - Open-source, self-hosted cloud file manager designed to unify file storage across multiple cloud providers into one seamless interface.
