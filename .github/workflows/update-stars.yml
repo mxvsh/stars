@@ -5,6 +5,8 @@ on:
     - cron: '5 4 * * *'   # Run daily at 4:05 AM
   workflow_dispatch:      # Allow manual trigger
 
+permissions: write-all
+
 jobs:
   update-stars:
     runs-on: ubuntu-latest
