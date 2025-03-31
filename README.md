@@ -355,9 +355,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### TypeScript (230)
 
-- [mxvsh/starkit](https://github.com/mxvsh/starkit)
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [drivebase/drivebase](https://github.com/drivebase/drivebase) - Open-source, self-hosted cloud file manager designed to unify file storage across multiple cloud providers into one seamless interface.
+- [mxvsh/starkit](https://github.com/mxvsh/starkit) - Automatically updates your README with a list of repositories you've starred on GitHub, categorized by programming language
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [xilehq/xile](https://github.com/xilehq/xile) - Open-source, self-hosted cloud file manager designed to unify file storage across multiple cloud providers into one seamless interface.
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [vercel/flags](https://github.com/vercel/flags) - Flags SDK by Vercel
