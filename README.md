@@ -5,7 +5,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 532 repositories across 34 languages*
+*Total: 536 repositories across 34 languages*
 
 ### Astro (1)
 
@@ -303,8 +303,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [quran/quran.com-api](https://github.com/quran/quran.com-api) - Quran.com content APIs
 - [quran/quran.com-frontend-v2](https://github.com/quran/quran.com-frontend-v2)
 
-### Rust (14)
+### Rust (15)
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 - [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment) - A hierarchical configuration library so con-free, it's unreal.
 - [mxvsh/dex](https://github.com/mxvsh/dex) - ⚙️ simple tool to run a command in multiple directories
@@ -324,8 +325,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 
-### Shell (7)
+### Shell (8)
 
+- [NeoHBz/.ezsh](https://github.com/NeoHBz/.ezsh) - Custom zsh functions for ease of life
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -352,8 +354,10 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
-### TypeScript (232)
+### TypeScript (234)
 
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [drivebase/drivebase](https://github.com/drivebase/drivebase) - Open-source, self-hosted cloud file manager designed to unify file storage across multiple cloud providers into one seamless interface.
 - [mxvsh/starkit](https://github.com/mxvsh/starkit) - Automatically updates your README with a list of repositories you've starred on GitHub, categorized by programming language
