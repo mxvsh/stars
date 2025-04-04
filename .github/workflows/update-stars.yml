@@ -17,29 +17,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Update README and Build Web
-        uses: mxvsh/starkit@v2.0.0
+        uses: mxvsh/starkit@v2.1.0
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           github-username: ${{ github.actor }}
           build-web: true
-      - name: Verify dist directory
-        run: |
-          ls -la
-          echo "Checking if dist directory exists..."
-          if [ -d "dist" ]; then
-            echo "dist directory exists"
-            ls -la dist/
-          else
-            echo "dist directory not found, creating it"
-            mkdir -p dist
-            echo "<html><body><h1>Placeholder</h1></body></html>" > dist/index.html
-          fi
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./dist
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
