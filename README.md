@@ -5,7 +5,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 537 repositories across 34 languages*
+*Total: 537 repositories across 33 languages*
 
 ### Astro (1)
 
@@ -116,7 +116,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [jamesisaac/react-native-background-task](https://github.com/jamesisaac/react-native-background-task) - Periodic background tasks for React Native apps, cross-platform (iOS and Android), which run even when the app is closed.
 
-### JavaScript (117)
+### JavaScript (118)
 
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
@@ -207,6 +207,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [mxvsh/my-paste-bin](https://github.com/mxvsh/my-paste-bin) - Simple and minimal pastebin, built with ExpresJS and MongoDB.
 - [mxvsh/react-starter](https://github.com/mxvsh/react-starter) - This is my starter boilerplat for React application
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [ionbot/ion](https://github.com/ionbot/ion) - A modern Telegram userbot with a web-based dashboard.
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
@@ -335,10 +336,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 - [sergeycherepanov/homebrew-docker-virtualbox](https://github.com/sergeycherepanov/homebrew-docker-virtualbox) - Docker workaround for Ryzentosh (AMD based Hackintosh)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-
-### Svelte (1)
-
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ### SVG (1)
 
