@@ -131,7 +131,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [mxvsh/zeroai](https://github.com/mxvsh/zeroai) - Get your job done with AI in an interactive and easy way with a suite of AI tools crafted to help you build smarter with AI, all through an intuitive and user-friendly interface.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [JanaSundar/janasundar.dev](https://github.com/JanaSundar/janasundar.dev)
