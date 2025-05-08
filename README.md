@@ -20,8 +20,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [forus-labs/forui](https://github.com/forus-labs/forui) - Forus Lab's Flutter UI library
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 
-### Go (2)
+### Go (3)
 
+- [mxvsh/cpw](https://github.com/mxvsh/cpw) - A CLI tool that watches for changes in files or directories and copies the changed files to a target destination.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [pcarrier/srv.us](https://github.com/pcarrier/srv.us) - ssh to expose local HTTP services online, CLI pastebin, etc.
 
@@ -147,13 +148,12 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [botmate/botmate](https://github.com/botmate/botmate) - 📦 plugin based bot management platform for telegram, discord and more
 - [urania-dev/snapp](https://github.com/urania-dev/snapp) - Yet Another Url Shortner. A simple excercise to learn Svelte.
 
-### Unknown (5)
+### Unknown (4)
 
 - [mxvsh/pocs](https://github.com/mxvsh/pocs) - Proof of concept projects
 - [Bastardkb/Skeletyl](https://github.com/Bastardkb/Skeletyl)
 - [Jobians/spark](https://github.com/Jobians/spark) - ✨ A local AI quiz app built with Next.js and TailwindCSS.
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 ### Vim Script (1)
 
