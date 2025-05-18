@@ -89,6 +89,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### TypeScript (58)
 
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
@@ -133,7 +134,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [windbase/windbase](https://github.com/windbase/windbase) - Web-based visual builder for Tailwind CSS. Design responsive interfaces with drag-and-drop simplicity and export clean React code with a single click.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
-- [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 - [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
@@ -141,12 +141,12 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [mxvsh/zeroai](https://github.com/mxvsh/zeroai) - Get your job done with AI in an interactive and easy way with a suite of AI tools crafted to help you build smarter with AI, all through an intuitive and user-friendly interface.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-- [JanaSundar/janasundar.dev](https://github.com/JanaSundar/janasundar.dev)
 - [mxvsh/spark](https://github.com/mxvsh/spark) - ✨ A local AI quiz app built with Next.js and TailwindCSS.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [codemod-com/codemod](https://github.com/codemod-com/codemod) - The end-to-end platform for creating, sharing, and running codemods with engines like jscodeshift, ast-grep, ts-morph, and more. Automate code migrations, cleanups, and refactors for you, your team, and the community. AI-powered and CLI-first.
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
+- [botmate/botmate](https://github.com/botmate/botmate) - 📦 plugin based bot management platform for telegram, discord and more
 
 ### Unknown (4)
 
