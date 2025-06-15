@@ -71,7 +71,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 ### Rust (7)
 
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment) - A hierarchical configuration library so con-free, it's unreal.
 - [mxvsh/dex](https://github.com/mxvsh/dex) - ⚙️ simple tool to run a command in multiple directories
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
