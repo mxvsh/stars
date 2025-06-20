@@ -118,7 +118,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [languine-ai/languine](https://github.com/languine-ai/languine) - Translate your application with Languine CLI powered by AI.
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
-- [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
+- [fmhy/edit](https://github.com/fmhy/edit) - https://fmhy.net/
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Module Federation for vite & rollup
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
