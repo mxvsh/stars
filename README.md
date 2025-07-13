@@ -57,7 +57,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
-### Python (8)
+### Python (7)
 
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -66,7 +66,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
-- [haoheliu/AudioLDM](https://github.com/haoheliu/AudioLDM) - AudioLDM: Generate speech, sound effects, music and beyond, with text.
 
 ### Ruby (1)
 
@@ -93,9 +92,10 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 
-### TypeScript (55)
+### TypeScript (56)
 
-- [windbase/windbase](https://github.com/windbase/windbase) - Open-source, visual builder for TailwindCSS with several in-built plugins. Supports DaisyUI and Flowbite.
+- [windbase/templates](https://github.com/windbase/templates) - Templates repository for Windbase
+- [windbase/windbase](https://github.com/windbase/windbase) - Visual builder for TailwindCSS. Collection of blocks and templates to choose from, with one-click export.
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
