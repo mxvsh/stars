@@ -92,6 +92,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### TypeScript (55)
 
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [windbase/templates](https://github.com/windbase/templates) - Templates repository for Windbase
 - [windbase/windbase](https://github.com/windbase/windbase) - Visual builder for TailwindCSS. Collection of blocks and templates to choose from, with one-click export.
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster.
@@ -146,7 +147,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
-- [mxvsh/zeroai](https://github.com/mxvsh/zeroai) - Get your job done with AI in an interactive and easy way with a suite of AI tools crafted to help you build smarter with AI, all through an intuitive and user-friendly interface.
 
 ### Unknown (4)
 
