@@ -56,14 +56,13 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
-### Python (6)
+### Python (5)
 
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
-- [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
 
 ### Ruby (1)
 
@@ -90,8 +89,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 
-### TypeScript (55)
+### TypeScript (56)
 
+- [jammwork/jammwork](https://github.com/jammwork/jammwork) - Collaborative canvas built for teams to draw, ideate, and jam together in real-time.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [windbase/templates](https://github.com/windbase/templates) - Templates repository for Windbase
 - [windbase/windbase](https://github.com/windbase/windbase) - Visual builder for TailwindCSS. Collection of blocks and templates to choose from, with one-click export.
@@ -117,7 +117,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [vercel/flags](https://github.com/vercel/flags) - Flags SDK by Vercel
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Collection of UI components.            Built for Next.js and React with Tailwind CSS and shadcn/ui
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [socketbasehq/socketbase](https://github.com/socketbasehq/socketbase) - Open-source, self-hosted alternative to Pusher Channels.
 - [mxvsh/socketbase](https://github.com/mxvsh/socketbase) - Open-source, self-hosted alternative to Pusher Channels.
