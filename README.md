@@ -89,7 +89,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 
-### TypeScript (56)
+### TypeScript (55)
 
 - [jammwork/jammwork](https://github.com/jammwork/jammwork) - Collaborative canvas built for teams to draw, ideate, and jam together in real-time.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
@@ -146,10 +146,10 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 
-### Unknown (4)
+### Unknown (5)
 
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [mxvsh/pocs](https://github.com/mxvsh/pocs) - Proof of concept projects
 - [Bastardkb/Skeletyl](https://github.com/Bastardkb/Skeletyl)
 - [Jobians/spark](https://github.com/Jobians/spark) - ✨ A local AI quiz app built with Next.js and TailwindCSS.
