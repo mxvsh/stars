@@ -146,10 +146,10 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### Unknown (5)
 
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [mxvsh/pocs](https://github.com/mxvsh/pocs) - Proof of concept projects
 - [Bastardkb/Skeletyl](https://github.com/Bastardkb/Skeletyl)
-- [Jobians/spark](https://github.com/Jobians/spark) - ✨ A local AI quiz app built with Next.js and TailwindCSS.
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 
 ### Vim Script (1)
