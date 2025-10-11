@@ -7,8 +7,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 *Total: 100 repositories across 18 languages*
 
-### Astro (1)
+### Astro (2)
 
+- [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) - Dante, a single-author blog and portfolio theme for Astro.js. 
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 
 ### C (2)
@@ -64,7 +65,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 
-### Rust (10)
+### Rust (9)
 
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -75,7 +76,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [mxvsh/dex](https://github.com/mxvsh/dex) - ⚙️ simple tool to run a command in multiple directories
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 
 ### Shell (2)
 
