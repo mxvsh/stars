@@ -90,6 +90,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### TypeScript (54)
 
+- [dwexjs/dwex](https://github.com/dwexjs/dwex) - A progressive TypeScript framework for building efficient and scalable server-side applications on Bun runtime.
 - [heyito/ito](https://github.com/heyito/ito) - Ito, smart dictation in every application
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -143,7 +144,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 - [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
 - [mxvsh/sapphire](https://github.com/mxvsh/sapphire) - Transform and shape your data effortlessly using JavaScript
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 
 ### Unknown (4)
 
