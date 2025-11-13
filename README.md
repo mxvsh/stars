@@ -89,6 +89,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### TypeScript (55)
 
+- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
 - [basementstudio/xmcp](https://github.com/basementstudio/xmcp) - The TypeScript MCP framework
 - [dwexjs/dwex](https://github.com/dwexjs/dwex) - A progressive TypeScript framework for building efficient and scalable server-side applications on Bun runtime.
 - [heyito/ito](https://github.com/heyito/ito) - Ito, smart dictation in every application
@@ -143,7 +144,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [mxvsh/javascript-editor](https://github.com/mxvsh/javascript-editor) - JavaScript Code Editor with live output and multi-tab functionality.
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 - [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
-- [mxvsh/sapphire](https://github.com/mxvsh/sapphire) - Transform and shape your data effortlessly using JavaScript
 
 ### Unknown (4)
 
