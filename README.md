@@ -5,7 +5,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 100 repositories across 17 languages*
+*Total: 100 repositories across 16 languages*
 
 ### Astro (2)
 
@@ -46,10 +46,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 
-### Lua (1)
-
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
-
 ### MDX (2)
 
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
@@ -88,8 +84,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks)
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
 
-### TypeScript (55)
+### TypeScript (56)
 
+- [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
 - [basementstudio/xmcp](https://github.com/basementstudio/xmcp) - The TypeScript MCP framework
 - [dwexjs/dwex](https://github.com/dwexjs/dwex) - A progressive TypeScript framework for building efficient and scalable server-side applications on Bun runtime.
