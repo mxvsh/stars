@@ -26,7 +26,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### Dart (2)
 
-- [forus-labs/forui](https://github.com/forus-labs/forui) - Forus Lab's Flutter UI library
+- [duobaseio/forui](https://github.com/duobaseio/forui) - Duobase's Flutter UI library
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 
 ### Go (6)
