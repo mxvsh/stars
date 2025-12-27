@@ -87,6 +87,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### TypeScript (55)
 
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
 - [basementstudio/xmcp](https://github.com/basementstudio/xmcp) - The TypeScript MCP framework
@@ -141,7 +142,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Module Federation for vite & rollup
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [mxvsh/javascript-editor](https://github.com/mxvsh/javascript-editor) - JavaScript Code Editor with live output and multi-tab functionality.
-- [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 
 ### Unknown (4)
 
