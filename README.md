@@ -24,12 +24,11 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [MePriyanshuHoo/JS-Benchmarks](https://github.com/MePriyanshuHoo/JS-Benchmarks)
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 
-### Dart (2)
+### Dart (1)
 
 - [duobaseio/forui](https://github.com/duobaseio/forui) - Duobase's Flutter UI library
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 
-### Go (6)
+### Go (7)
 
 - [JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog) - Easy to configure & self hostable Changelog Website
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -37,6 +36,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [mxvsh/cpw](https://github.com/mxvsh/cpw) - A CLI tool that watches for changes in files or directories and copies the changed files to a target destination.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 
 ### HTML (1)
 
