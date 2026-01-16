@@ -28,7 +28,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 - [duobaseio/forui](https://github.com/duobaseio/forui) - Duobase's Flutter UI library
 
-### Go (7)
+### Go (6)
 
 - [JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog) - Easy to configure & self hostable Changelog Website
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -36,7 +36,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [mxvsh/cpw](https://github.com/mxvsh/cpw) - A CLI tool that watches for changes in files or directories and copies the changed files to a target destination.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 
 ### HTML (1)
 
@@ -84,8 +83,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks)
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
 
-### TypeScript (56)
+### TypeScript (57)
 
+- [mxvsh/typelense](https://github.com/mxvsh/typelense) - Inspect TypeScript errors in a monorepo with clarity
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
