@@ -88,6 +88,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### TypeScript (54)
 
+- [drivebase/drivebase](https://github.com/drivebase/drivebase) - ✨ Open-source, self-hosted cloud file manager designed to unify file storage across multiple cloud providers including a personal vault 🔒 for E2E file encryption.
 - [mxvsh/typelense](https://github.com/mxvsh/typelense) - Inspect TypeScript errors in a monorepo with clarity
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
@@ -123,7 +124,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
-- [drivebase/drivebase](https://github.com/drivebase/drivebase) - ✨ Open-source, self-hosted cloud file manager designed to unify file storage across multiple cloud providers including a personal vault 🔒 for E2E file encryption.
 - [mxvsh/starkit](https://github.com/mxvsh/starkit) - Automatically updates your README with a list of repositories you've starred on GitHub. Option to build web page around it.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [xilehq/xile](https://github.com/xilehq/xile) - Open-source, self-hosted cloud file manager designed to unify file storage across multiple cloud providers into one seamless interface.
