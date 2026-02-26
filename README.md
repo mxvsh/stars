@@ -52,12 +52,11 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 
-### Python (7)
+### Python (6)
 
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
-- [firebase/genkit](https://github.com/firebase/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
@@ -86,9 +85,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks)
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
 
-### TypeScript (54)
+### TypeScript (55)
 
-- [drivebase/drivebase](https://github.com/drivebase/drivebase) - ✨ Open-source, self-hosted cloud file manager designed to unify file storage across multiple cloud providers including a personal vault 🔒 for E2E file encryption.
+- [drivebase/drivebase](https://github.com/drivebase/drivebase) - 📁 Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. With E2E encrypted vault and AI-powered search ✨.
 - [mxvsh/typelense](https://github.com/mxvsh/typelense) - Inspect TypeScript errors in a monorepo with clarity
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
@@ -97,6 +96,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [dwexjs/dwex](https://github.com/dwexjs/dwex) - A progressive TypeScript framework for building efficient and scalable server-side applications on Bun runtime.
 - [heyito/ito](https://github.com/heyito/ito) - [DEPRECATED] Ito, smart dictation in every application
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
+- [firebase/genkit](https://github.com/firebase/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [mxvsh/restflow](https://github.com/mxvsh/restflow) - Powerful CLI tool for API testing and workflow automation using a simple, human-readable DSL
