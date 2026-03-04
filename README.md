@@ -28,7 +28,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 - [duobaseio/forui](https://github.com/duobaseio/forui) - Duobase's Flutter UI library
 
-### Go (7)
+### Go (6)
 
 - [JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog) - Easy to configure & self hostable Changelog Website
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -36,7 +36,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [mxvsh/cpw](https://github.com/mxvsh/cpw) - A CLI tool that watches for changes in files or directories and copies the changed files to a target destination.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 
 ### HTML (1)
 
@@ -85,8 +84,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks)
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
 
-### TypeScript (55)
+### TypeScript (56)
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
 - [mxvsh/typelense](https://github.com/mxvsh/typelense) - Inspect TypeScript errors in a monorepo with clarity
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
