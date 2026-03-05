@@ -84,8 +84,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks)
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
 
-### TypeScript (56)
+### TypeScript (57)
 
+- [mxvsh/prove](https://github.com/mxvsh/prove) - A local-first startup idea validator. Runs a structured AI conversation that pressure-tests your idea across five stages and produces a clear verdict.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
 - [mxvsh/typelense](https://github.com/mxvsh/typelense) - Inspect TypeScript errors in a monorepo with clarity
@@ -143,12 +144,11 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [mxvsh/javascript-editor](https://github.com/mxvsh/javascript-editor) - JavaScript Code Editor with live output and multi-tab functionality.
 
-### Unknown (4)
+### Unknown (3)
 
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [mxvsh/pocs](https://github.com/mxvsh/pocs) - Proof of concept projects
-- [Bastardkb/Skeletyl](https://github.com/Bastardkb/Skeletyl)
 
 ### Vue (2)
 
