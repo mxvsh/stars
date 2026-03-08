@@ -7,8 +7,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 *Total: 100 repositories across 16 languages*
 
-### Astro (2)
+### Astro (3)
 
+- [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) - Effortlessly share your thoughts in a calm & dustless space.
 - [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) - Dante, a single-author blog and portfolio theme for Astro.js. 
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 
@@ -18,8 +19,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 
-### C++ (3)
+### C++ (4)
 
+- [mxvsh/wave](https://github.com/mxvsh/wave) - Native macOS dictation app focused on fast voice-to-text workflows.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [MePriyanshuHoo/JS-Benchmarks](https://github.com/MePriyanshuHoo/JS-Benchmarks)
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
@@ -64,7 +66,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 
-### Rust (8)
+### Rust (6)
 
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
@@ -72,8 +74,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-- [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment) - A hierarchical configuration library so con-free, it's unreal.
-- [mxvsh/dex](https://github.com/mxvsh/dex) - ⚙️ simple tool to run a command in multiple directories
 
 ### Shell (2)
 
@@ -87,9 +87,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### TypeScript (56)
 
+- [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
 - [mxvsh/prove](https://github.com/mxvsh/prove) - A local-first startup idea validator. Runs a structured AI conversation that pressure-tests your idea across five stages and produces a clear verdict.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
 - [mxvsh/typelense](https://github.com/mxvsh/typelense) - Inspect TypeScript errors in a monorepo with clarity
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
