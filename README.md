@@ -87,6 +87,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### TypeScript (56)
 
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
 - [mxvsh/prove](https://github.com/mxvsh/prove) - A local-first startup idea validator. Runs a structured AI conversation that pressure-tests your idea across five stages and produces a clear verdict.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
@@ -142,7 +143,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Module Federation for vite & rollup
-- [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
 ### Unknown (3)
 
