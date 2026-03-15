@@ -89,7 +89,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 ### TypeScript (54)
 
 - [mxvsh/svglogo](https://github.com/mxvsh/svglogo) - Generate clean icon-based logos instantly in your browser. Export as SVG, PNG, or ICO.
-- [mxvsh/prompts-planet](https://github.com/mxvsh/prompts-planet) - A curated gallery of AI-generated web designs paired with the prompts used to create them.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
 - [mxvsh/prove](https://github.com/mxvsh/prove) - A local-first startup idea validator. Runs a structured AI conversation that pressure-tests your idea across five stages and produces a clear verdict.
@@ -142,6 +141,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [languine-ai/languine](https://github.com/languine-ai/languine) - Translate your application with Languine CLI powered by AI.
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
+- [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
 
 ### Unknown (4)
 
