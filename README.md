@@ -87,6 +87,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### TypeScript (55)
 
+- [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [Shpigford/studio](https://github.com/Shpigford/studio) - A suite of random, mostly weird, generative art tools!
 - [mxvsh/svglogo](https://github.com/mxvsh/svglogo) - Generate clean icon-based logos instantly in your browser. Export as SVG, PNG, or ICO.
@@ -141,7 +142,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [radashi-org/radashi](https://github.com/radashi-org/radashi) - The modern, community-first TypeScript toolkit with all of the fast, readable, and minimal utility functions you need. Type-safe, dependency-free, tree-shakeable, fully tested.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [languine-ai/languine](https://github.com/languine-ai/languine) - Translate your application with Languine CLI powered by AI.
-- [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 
 ### Unknown (4)
 
