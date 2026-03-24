@@ -5,7 +5,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 100 repositories across 16 languages*
+*Total: 100 repositories across 17 languages*
 
 ### Astro (4)
 
@@ -66,14 +66,13 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 
-### Rust (6)
+### Rust (5)
 
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 
 ### Shell (2)
 
@@ -150,6 +149,10 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [mxvsh/pocs](https://github.com/mxvsh/pocs) - Proof of concept projects
+
+### Vue (1)
+
+- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 
 ### Zig (1)
 
