@@ -87,6 +87,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### TypeScript (55)
 
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [mxvsh/livedot](https://github.com/mxvsh/livedot) - Watch your users live across the world — fast, minimal, and real-time.
 - [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -141,7 +142,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [socketbasehq/socketbase](https://github.com/socketbasehq/socketbase) - Open-source, self-hosted alternative to Pusher Channels.
 - [mxvsh/socketbase](https://github.com/mxvsh/socketbase) - Open-source, self-hosted alternative to Pusher Channels.
 - [radashi-org/radashi](https://github.com/radashi-org/radashi) - The modern, community-first TypeScript toolkit with all of the fast, readable, and minimal utility functions you need. Type-safe, dependency-free, tree-shakeable, fully tested.
-- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 
 ### Unknown (4)
 
