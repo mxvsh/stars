@@ -87,6 +87,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### TypeScript (55)
 
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [mxvsh/livedot](https://github.com/mxvsh/livedot) - Watch your users live across the world — fast, minimal, and real-time.
@@ -141,7 +142,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Open-source collection of stunning Components built with Tailwind CSS, shadcn/ui and Motion to use on your websites
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [socketbasehq/socketbase](https://github.com/socketbasehq/socketbase) - Open-source, self-hosted alternative to Pusher Channels.
-- [mxvsh/socketbase](https://github.com/mxvsh/socketbase) - Open-source, self-hosted alternative to Pusher Channels.
 
 ### Unknown (4)
 
