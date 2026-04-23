@@ -5,7 +5,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 100 repositories across 15 languages*
+*Total: 100 repositories across 16 languages*
 
 ### Astro (4)
 
@@ -14,9 +14,8 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) - Dante, a single-author blog and portfolio theme for Astro.js. 
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 
-### C (3)
+### C (2)
 
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 
@@ -151,6 +150,10 @@ This repository updates automatically using [starkit](https://github.com/marketp
 ### Vue (1)
 
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
+
+### Zig (1)
+
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 
 <!-- STARRED_REPOS_END -->
