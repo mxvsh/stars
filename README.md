@@ -19,11 +19,12 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 
-### C++ (3)
+### C++ (4)
 
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [MePriyanshuHoo/JS-Benchmarks](https://github.com/MePriyanshuHoo/JS-Benchmarks)
+- [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 
 ### Go (6)
 
@@ -82,7 +83,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks)
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
 
-### TypeScript (54)
+### TypeScript (53)
 
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [shadcnblocks/mainline-astro-template](https://github.com/shadcnblocks/mainline-astro-template) - An Astro template built with shadcn/ui, Tailwind 4 & Astro 5
@@ -106,7 +107,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - Open-source localization engineering tools. Connects to Lingo.dev localization engineering platform for consistent, quality translations.
 - [basementstudio/xmcp](https://github.com/basementstudio/xmcp) - The TypeScript MCP framework
 - [dwexjs/dwex](https://github.com/dwexjs/dwex) - A progressive TypeScript framework for building efficient and scalable server-side applications on Bun runtime.
-- [heyito/ito](https://github.com/heyito/ito) - [DEPRECATED] Ito, smart dictation in every application
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [genkit-ai/genkit](https://github.com/genkit-ai/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
