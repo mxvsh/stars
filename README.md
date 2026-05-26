@@ -41,7 +41,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### JavaScript (4)
 
-- [BenjaminHalko/flow-icons-zed](https://github.com/BenjaminHalko/flow-icons-zed) - Flow Icons for Zed
+- [BenjaminHalko/flow-icons-zed](https://github.com/BenjaminHalko/flow-icons-zed) - 🌼 Flow Icons ported to Zed
 - [davidvkimball/vaultcms](https://github.com/davidvkimball/vaultcms) - Use Obsidian as a content management system for your Astro website.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
