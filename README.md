@@ -10,7 +10,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 ### Astro (4)
 
 - [Dnzzk2/Litos](https://github.com/Dnzzk2/Litos) - A Simple & Modern Blog Theme for Astro
-- [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) - Effortlessly share your thoughts in a calm & dustless space.
+- [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) - Minimal blog theme built with Astro.
 - [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) - Dante, a single-author blog and portfolio theme for Astro.js. 
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 
@@ -39,10 +39,11 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 - [CasberryIndia/Physics-Notebook](https://github.com/CasberryIndia/Physics-Notebook) - An interactive collection of physics concepts with beautiful visualizations and real-time simulations
 
-### JavaScript (3)
+### JavaScript (4)
 
 - [BenjaminHalko/flow-icons-zed](https://github.com/BenjaminHalko/flow-icons-zed) - 🌼 Flow Icons ported to Zed
 - [davidvkimball/vaultcms](https://github.com/davidvkimball/vaultcms) - Use Obsidian as a content management system for your Astro website.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 
 ### PowerShell (1)
@@ -82,7 +83,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks)
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
 
-### TypeScript (54)
+### TypeScript (53)
 
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [shadcnblocks/mainline-astro-template](https://github.com/shadcnblocks/mainline-astro-template) - An Astro template built with shadcn/ui, Tailwind 4 & Astro 5
@@ -117,7 +118,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [jammwork/jammwork](https://github.com/jammwork/jammwork) - Collaborative canvas built for teams to draw, ideate, and jam together in real-time.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [windbase/templates](https://github.com/windbase/templates) - Templates repository for Windbase
 - [windbase/windbase](https://github.com/windbase/windbase) - Visual builder for TailwindCSS. Collection of blocks and templates to choose from, with one-click export.
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
