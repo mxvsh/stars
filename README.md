@@ -19,12 +19,11 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 
-### C++ (4)
+### C++ (3)
 
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [MePriyanshuHoo/JS-Benchmarks](https://github.com/MePriyanshuHoo/JS-Benchmarks)
-- [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 
 ### Go (6)
 
@@ -83,8 +82,10 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks)
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
 
-### TypeScript (53)
+### TypeScript (54)
 
+- [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
+- [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [shadcnblocks/mainline-astro-template](https://github.com/shadcnblocks/mainline-astro-template) - An Astro template built with shadcn/ui, Tailwind 4 & Astro 5
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
@@ -98,7 +99,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [Shpigford/studio](https://github.com/Shpigford/studio) - A suite of random, mostly weird, generative art tools!
 - [mxvsh/svglogo](https://github.com/mxvsh/svglogo) - Generate clean icon-based logos instantly in your browser. Export as SVG, PNG, or ICO.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
-- [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
 - [mxvsh/prove](https://github.com/mxvsh/prove) - A local-first startup idea validator. Runs a structured AI conversation that pressure-tests your idea across five stages and produces a clear verdict.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [mxvsh/typelense](https://github.com/mxvsh/typelense) - Inspect TypeScript errors in a monorepo with clarity
