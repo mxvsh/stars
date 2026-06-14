@@ -83,6 +83,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### TypeScript (55)
 
+- [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
 - [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
 - [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
@@ -137,7 +138,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [mxvsh/starkit](https://github.com/mxvsh/starkit) - Automatically updates your README with a list of repositories you've starred on GitHub. Option to build web page around it.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [xilehq/xile](https://github.com/xilehq/xile) - Open-source, self-hosted cloud file manager designed to unify file storage across multiple cloud providers into one seamless interface.
 
 ### Unknown (5)
 
