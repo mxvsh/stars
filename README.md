@@ -38,10 +38,11 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 - [CasberryIndia/Physics-Notebook](https://github.com/CasberryIndia/Physics-Notebook) - An interactive collection of physics concepts with beautiful visualizations and real-time simulations
 
-### JavaScript (2)
+### JavaScript (3)
 
 - [BenjaminHalko/flow-icons-zed](https://github.com/BenjaminHalko/flow-icons-zed) - 🌼 Flow Icons ported to Zed
 - [davidvkimball/vaultcms](https://github.com/davidvkimball/vaultcms) - Use Obsidian as a content management system for your Astro website.
+- [RashikTheDev/flow-icons-zed](https://github.com/RashikTheDev/flow-icons-zed) - 🌼 A brand new premium icon pack for Zed (Unofficial)
 
 ### Python (4)
 
@@ -68,7 +69,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG. 
 - [NeoHBz/.ezsh](https://github.com/NeoHBz/.ezsh) - Custom zsh functions for ease of life
 
-### Swift (7)
+### Swift (6)
 
 - [billxby/notchcode](https://github.com/billxby/notchcode)
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
@@ -76,10 +77,10 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor for Mac, iOS and iPadOS
 - [mxvsh/wave](https://github.com/mxvsh/wave) - Private macOS dictation app focused on fast voice-to-text workflows.
 - [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks)
-- [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
 
-### TypeScript (55)
+### TypeScript (56)
 
+- [starc007/ui-components](https://github.com/starc007/ui-components) - Motion components for React.  Copy, paste, done.
 - [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
 - [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
 - [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
@@ -136,10 +137,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [mxvsh/starkit](https://github.com/mxvsh/starkit) - Automatically updates your README with a list of repositories you've starred on GitHub. Option to build web page around it.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 
-### Unknown (5)
+### Unknown (4)
 
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -   A curated list of awesome applications, softwares, tools and shiny things for macOS.
-- [RashikTheDev/flow-icons-zed](https://github.com/RashikTheDev/flow-icons-zed) - 🌼 A brand new premium icon pack for Zed (Unofficial)
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [mxvsh/pocs](https://github.com/mxvsh/pocs) - Proof of concept projects
