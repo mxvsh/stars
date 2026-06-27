@@ -80,6 +80,8 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### TypeScript (56)
 
+- [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) - 🦊 Soothing pastel icons for VSCode/VSCodium
+- [jelly-editor/jelly-editor](https://github.com/jelly-editor/jelly-editor) - Lightweight desktop code editor built for AI agent workflows.
 - [starc007/ui-components](https://github.com/starc007/ui-components) - Motion components for React.  Copy, paste, done.
 - [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
 - [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
@@ -134,15 +136,13 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
-- [mxvsh/starkit](https://github.com/mxvsh/starkit) - Automatically updates your README with a list of repositories you've starred on GitHub. Option to build web page around it.
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 
 ### Unknown (4)
 
+- [thang-nm/Flow-Icons](https://github.com/thang-nm/Flow-Icons) - 🌼 A brand new premium icon pack for VSCode
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -   A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
-- [mxvsh/pocs](https://github.com/mxvsh/pocs) - Proof of concept projects
 
 ### Vue (1)
 
