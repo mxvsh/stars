@@ -55,8 +55,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 
-### Rust (5)
+### Rust (6)
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -78,7 +79,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [mxvsh/wave](https://github.com/mxvsh/wave) - Private macOS dictation app focused on fast voice-to-text workflows.
 - [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks)
 
-### TypeScript (56)
+### TypeScript (55)
 
 - [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) - 🦊 Soothing pastel icons for VSCode/VSCodium
 - [jelly-editor/jelly-editor](https://github.com/jelly-editor/jelly-editor) - Lightweight desktop code editor built for AI agent workflows.
@@ -95,7 +96,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [mxvsh/livedot](https://github.com/mxvsh/livedot) - Watch your users live across the world — fast, minimal, and real-time.
 - [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [Shpigford/studio](https://github.com/Shpigford/studio) - A suite of random, mostly weird, generative art tools!
 - [mxvsh/svglogo](https://github.com/mxvsh/svglogo) - Generate clean icon-based logos instantly in your browser. Export as SVG, PNG, or ICO.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
