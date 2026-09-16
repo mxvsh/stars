@@ -5,7 +5,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 100 repositories across 15 languages*
+*Total: 100 repositories across 16 languages*
 
 ### Astro (4)
 
@@ -44,6 +44,10 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [davidvkimball/vaultcms](https://github.com/davidvkimball/vaultcms) - Use Obsidian as a content management system for your Astro website.
 - [RashikTheDev/flow-icons-zed](https://github.com/RashikTheDev/flow-icons-zed) - 🌼 A brand new premium icon pack for Zed (Unofficial)
 
+### PHP (1)
+
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+
 ### Python (4)
 
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -78,7 +82,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [get-wave/wave](https://github.com/get-wave/wave) - Private macOS dictation app focused on fast voice-to-text workflows.
 - [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks)
 
-### TypeScript (56)
+### TypeScript (55)
 
 - [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) - High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Image
 - [githubnext/chopin](https://github.com/githubnext/chopin) - Let's compose rich plans together
@@ -125,7 +129,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [windbase/windbase](https://github.com/windbase/windbase) - Visual builder for TailwindCSS. Collection of blocks and templates to choose from, with one-click export.
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
