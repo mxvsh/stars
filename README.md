@@ -74,8 +74,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
 - [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG. 
 
-### Swift (10)
+### Swift (11)
 
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [saragordic/rooms](https://github.com/saragordic/rooms) - Switch between projects on your Mac. Every project is a room: its windows, laid out, one shortcut away.
 - [driceroland/Search](https://github.com/driceroland/Search) - A small, fast WebKit browser for macOS, by Office Commun.
 - [jelly-terminal/jelly](https://github.com/jelly-terminal/jelly) - Sweet terminal for the Mac. 
@@ -87,7 +88,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [get-wave/wave](https://github.com/get-wave/wave) - Private macOS dictation app focused on fast voice-to-text workflows.
 - [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks)
 
-### TypeScript (50)
+### TypeScript (49)
 
 - [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) - High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Voice, Image, Avatar bots
 - [githubnext/chopin](https://github.com/githubnext/chopin) - Let's compose rich plans together
@@ -138,7 +139,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 
 ### Unknown (4)
 
