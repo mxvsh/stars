@@ -85,7 +85,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor for Mac, iOS and iPadOS
 - [get-wave/wave](https://github.com/get-wave/wave) - Private macOS dictation app focused on fast voice-to-text workflows.
-- [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks)
+- [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks) - A native macOS menu bar application for managing tasks, integrated seamlessly with Apple Reminders.
 
 ### TypeScript (50)
 
@@ -124,7 +124,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 - [mxvsh/restflow](https://github.com/mxvsh/restflow) - Powerful CLI tool for API testing and workflow automation using a simple, human-readable DSL
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
