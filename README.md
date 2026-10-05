@@ -5,7 +5,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 100 repositories across 16 languages*
+*Total: 100 repositories across 17 languages*
 
 ### Astro (4)
 
@@ -24,6 +24,10 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [MePriyanshuHoo/JS-Benchmarks](https://github.com/MePriyanshuHoo/JS-Benchmarks)
+
+### Dart (1)
+
+- [spandan-kumar/glyph](https://github.com/spandan-kumar/glyph) - Your LED matrix, alive — 1,100+ animations, pixel art, clocks, games and album art for WLED matrices, from your phone. Free, local, no account.
 
 ### Go (6)
 
@@ -87,7 +91,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [get-wave/wave](https://github.com/get-wave/wave) - Private macOS dictation app focused on fast voice-to-text workflows.
 - [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks) - A native macOS menu bar application for managing tasks, integrated seamlessly with Apple Reminders.
 
-### TypeScript (50)
+### TypeScript (49)
 
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
 - [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) - High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Voice, Image, Avatar bots
@@ -138,7 +142,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
-- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 
 ### Unknown (4)
 
