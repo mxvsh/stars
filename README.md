@@ -29,14 +29,13 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 - [spandan-kumar/glyph](https://github.com/spandan-kumar/glyph) - Your LED matrix, alive — 1,100+ animations, pixel art, clocks, games and album art for WLED matrices, from your phone. Free, local, no account.
 
-### Go (6)
+### Go (5)
 
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog) - Easy to configure & self hostable Changelog Website
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
-- [mxvsh/cpw](https://github.com/mxvsh/cpw) - A CLI tool that watches for changes in files or directories and copies the changed files to a target destination.
 
 ### HTML (1)
 
@@ -73,8 +72,10 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
 - [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG. 
 
-### Swift (11)
+### Swift (13)
 
+- [mxvsh/Drop](https://github.com/mxvsh/Drop) - Convert, compress and keep files without leaving the drag.
+- [mxvsh/TypeCam](https://github.com/mxvsh/TypeCam) - Turn your iPhone into a low-latency, wired camera for OBS Studio on macOS.
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [saragordic/rooms](https://github.com/saragordic/rooms) - Switch between projects on your Mac. Every project is a room: its windows, laid out, one shortcut away.
 - [driceroland/Search](https://github.com/driceroland/Search) - A small, fast WebKit browser for macOS, by Office Commun.
@@ -87,7 +88,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [get-wave/wave](https://github.com/get-wave/wave) - Private macOS dictation app focused on fast voice-to-text workflows.
 - [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks) - A native macOS menu bar application for managing tasks, integrated seamlessly with Apple Reminders.
 
-### TypeScript (50)
+### TypeScript (49)
 
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
 - [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) - High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Voice, Image, Avatar bots
@@ -97,7 +98,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [jelly-editor/jelly-editor](https://github.com/jelly-editor/jelly-editor) - Lightweight desktop code editor built for AI agent workflows.
 - [starc007/ui-components](https://github.com/starc007/ui-components) - Motion components for React.  Copy, paste, done.
 - [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
-- [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
+- [cosscom/ui](https://github.com/cosscom/ui) - coss.com/ui is the official design system of Cal.com
 - [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [shadcnblocks/mainline-astro-template](https://github.com/shadcnblocks/mainline-astro-template) - An Astro template built with shadcn/ui, Tailwind 4 & Astro 5
@@ -138,7 +139,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 
 ### Unknown (4)
 
