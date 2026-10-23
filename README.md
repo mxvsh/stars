@@ -27,7 +27,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### Dart (1)
 
-- [spandan-kumar/glyph](https://github.com/spandan-kumar/glyph) - Your LED matrix, alive — 1,100+ animations, pixel art, clocks, games and album art for WLED matrices, from your phone. Free, local, no account.
+- [spandan-kumar/glyph](https://github.com/spandan-kumar/glyph) - Set up your WLED matrix in three taps, then fill it with 1,200+ original animations, clocks, games and album art. Free, open source, no account.
 
 ### Go (5)
 
