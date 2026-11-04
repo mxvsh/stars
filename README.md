@@ -37,8 +37,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 
-### HTML (1)
+### HTML (2)
 
+- [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) - A Claude skill that draws dynamic icons in one consistent style, with hover motion or as static SVG.
 - [CasberryIndia/Physics-Notebook](https://github.com/CasberryIndia/Physics-Notebook) - An interactive collection of physics concepts with beautiful visualizations and real-time simulations
 
 ### JavaScript (3)
@@ -84,7 +85,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [get-wave/wave](https://github.com/get-wave/wave) - Private macOS dictation app focused on fast voice-to-text workflows.
 - [spandan-kumar/swift-tasks](https://github.com/spandan-kumar/swift-tasks) - A native macOS menu bar application for managing tasks, integrated seamlessly with Apple Reminders.
 
-### TypeScript (50)
+### TypeScript (49)
 
 - [zupy-ui/zupy](https://github.com/zupy-ui/zupy) - Tactile React components with chunky edges, hard shadows and springy motion.
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
@@ -135,7 +136,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 
 ### Unknown (4)
 
