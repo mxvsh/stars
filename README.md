@@ -87,6 +87,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 
 ### TypeScript (49)
 
+- [panel-ui/PanelUI](https://github.com/panel-ui/PanelUI) - High-performance React Native  and React components .
 - [zupy-ui/zupy](https://github.com/zupy-ui/zupy) - Tactile React components with chunky edges, hard shadows and springy motion.
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
 - [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) - Libraries and models for next-gen UI
@@ -135,7 +136,6 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 
 ### Unknown (4)
 
