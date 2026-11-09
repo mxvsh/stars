@@ -37,13 +37,13 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 
-### HTML (2)
+### HTML (1)
 
-- [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) - A Claude skill that draws dynamic icons in one consistent style, with hover motion or as static SVG.
 - [CasberryIndia/Physics-Notebook](https://github.com/CasberryIndia/Physics-Notebook) - An interactive collection of physics concepts with beautiful visualizations and real-time simulations
 
-### JavaScript (3)
+### JavaScript (4)
 
+- [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) - An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.
 - [BenjaminHalko/flow-icons-zed](https://github.com/BenjaminHalko/flow-icons-zed) - 🌼 Flow Icons ported to Zed
 - [davidvkimball/vaultcms](https://github.com/davidvkimball/vaultcms) - Use Obsidian as a content management system for your Astro website.
 - [RashikTheDev/flow-icons-zed](https://github.com/RashikTheDev/flow-icons-zed) - 🌼 A brand new premium icon pack for Zed (Unofficial)
@@ -55,13 +55,12 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 
-### Rust (5)
+### Rust (4)
 
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 
 ### Shell (3)
 
@@ -137,8 +136,9 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 
-### Unknown (4)
+### Unknown (5)
 
+- [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) - A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.
 - [thang-nm/Flow-Icons](https://github.com/thang-nm/Flow-Icons) - 🌼 A brand new premium icon pack for VSCode
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -   A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
