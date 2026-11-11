@@ -94,7 +94,7 @@ This repository updates automatically using [starkit](https://github.com/marketp
 - [DavidHDev/canvas-ui](https://github.com/DavidHDev/canvas-ui) - A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.
 - [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) - 🦊 Soothing pastel icons for VSCode/VSCodium
 - [jelly-editor/jelly-editor](https://github.com/jelly-editor/jelly-editor) - Lightweight desktop code editor built for AI agent workflows.
-- [starc007/ui-components](https://github.com/starc007/ui-components) - Motion components for React.  Copy, paste, done.
+- [starc007/ui-components](https://github.com/starc007/ui-components) - beUI: free animated React components built on Framer Motion and Tailwind CSS. Install with the shadcn CLI, or copy the source.
 - [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
 - [cosscom/ui](https://github.com/cosscom/ui) - coss.com/ui is the official design system of Cal.com
 - [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
